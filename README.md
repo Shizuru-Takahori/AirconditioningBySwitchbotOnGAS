@@ -31,8 +31,9 @@ https://script.google.com/home/projects/1venkm6ofbS90jMsmaoqawzQYPbBRdxRU7aT-YW_
 
 # 使い方
 プロジェクトのトリガーを設定することで自動実行します｡
-    1. RecordHumidityを時間トリガーで任意の間隔に設定します(5~10分を推奨)
-    2. AirconditioningControllerを時間トリガーで任意の間隔に設定します(1~5分を推奨)
+1. RecordHumidityを時間トリガーで任意の間隔に設定します(5~10分を推奨)
+2. AirconditioningControllerを時間トリガーで任意の間隔に設定します(1~5分を推奨)
+ 
  またデプロイしたWebアプリのURLにパラメータを付けることでモードの切り替えが可能です｡</br>
  
  
