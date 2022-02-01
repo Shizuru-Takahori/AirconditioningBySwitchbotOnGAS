@@ -1,0 +1,17 @@
+{
+    "humidityTarget":{
+        "maxAhumidity": "11",
+        "minAhumidity": "7",
+        "maxTemp": "20",
+        "minTemp": "14",
+        "maxRhumidity": "0.63"
+    },
+    "spreadsheet": {
+        "humidity": "fill",
+        "CountSwitchbotApi": "fill",
+        "idList":  "fill"
+    }
+
+}
+
+
