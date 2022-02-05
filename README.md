@@ -2,6 +2,9 @@
 SwitchBotでお部屋を最適な気温と湿度に保ちます｡</br>
 ナイトモードやお出かけモードにも対応｡</br>
 </br>
+詳しい情報はこちらから</br>
+https://qr.ae/pGE2jB</br>
+</br>
 # 要件
 - ｢SwitchBotスマートプラグ｣に接続した加湿器
 - ｢Switchbot温湿度計｣1つ
